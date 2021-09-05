@@ -47,7 +47,7 @@ while True :
             cv2.putText(frame, "Yawning", (30, 300), font, 3, (255, 255, 0))
        # if blink_counter > 100:
         #    playsound(
-         #       "C:/Users/Manmeet Singh/Desktop/music/Warsongs Piercing Light Mako Remix  Music  League of Legends.mp3")
+         #       "path/*.mp3")
           #  print("playing...")
 
     cv2.imshow("Frame",frame)
